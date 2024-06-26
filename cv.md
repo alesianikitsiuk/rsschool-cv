@@ -1,4 +1,6 @@
 # Alesia Nikitsiuk
+<img src="photo.jpg"  width="200" height="290">
+
 ## Legal Counsel
 ### Contact Information
 Phone: 37529 538 35 10
