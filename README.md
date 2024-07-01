@@ -1,3 +1,3 @@
 # rsschool-cv
-Markdown &amp; Git
-https://alesianikitsiuk.github.io/rsschool-cv/cv
+CV#2. HTML, CSS & Git Basics
+https://alesianikitsiuk.github.io/rsschool-cv/
